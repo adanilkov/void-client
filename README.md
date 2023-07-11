@@ -1,6 +1,6 @@
 # Void Client
 
-The Void Client is a an injectable client that runs off of the popular Minecraft client, Lunar Client, using the JNI (Java Native Interface). Throughout this project I have delved deeply into reverse engineering and thus have deepened my understanding of lower level programming as well as KM/UM interactions—all though not directly present in this particular project due to several revisions. 
+The Void Client is a an injectable client that runs off of the popular Minecraft client, Lunar Client, through the JNI (Java Native Interface). Throughout this project I have delved deeply into reverse engineering and thus have deepened my understanding of lower level programming as well as KM/UM interactions—all though not directly present in this particular project due to several revisions. 
 
 ## Project Overview
 
