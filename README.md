@@ -10,4 +10,4 @@ These functionalities encompass the fundamental desires of the current playerbas
 
 This is an internal client, meaning the rendering of the GUI is done within the minecraft client itself. This is done by hooking to a bug/feature within OpenGL's swapbuffer method, which allows for images to be rendered as an overlay when you create two different contexts and switch between them with the swapbuffer call. 
 
-Note, this repository does not have all the code necessary to compile and run the client as this is something that I am currently working on and have plans on creating a website and selling subscriptions to this client. Once it is available, the link will be included, and the full client will be purchaseable. 
+Please be aware that the code in this repository is not complete for compiling and running the client, as it is currently being offered for sale to a beta grou[. However, I intend to make the client accessible for purchase by the general public soon. Once this becomes available, a website will be provided for further information.
